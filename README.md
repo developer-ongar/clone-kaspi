@@ -1,4 +1,4 @@
-# kaspi_bank
+# kaspi_kz
 
 A new Flutter project.
 
