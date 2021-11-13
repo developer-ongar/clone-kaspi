@@ -40,7 +40,7 @@ class _KaspiBankAppState extends State<KaspiBankApp>
             color: Colors.red,
           ),
           title: const Text(
-            "ВКО Банк",
+            "Клиенту Kaspi",
             style: TextStyle(
               color: Colors.black,
               fontWeight: FontWeight.w500,
@@ -72,7 +72,7 @@ class _KaspiBankAppState extends State<KaspiBankApp>
                           child: Image.network(kaspiGoldImageUrl),
                         ),
                         const Text(
-                          "Aidana Gold",
+                          "Kaspi Gold",
                           style: TextStyle(
                             fontSize: 18,
                           ),
@@ -81,7 +81,7 @@ class _KaspiBankAppState extends State<KaspiBankApp>
                           child: Container(),
                         ),
                         const Text(
-                          "755 500 000 000 000 000 000 ₸",
+                          "755 500 000 ₸",
                           style: TextStyle(
                             fontSize: 18,
                           ),
