@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.kaspi_bank">
    <application
-        android:label="kaspi_bank"
+        android:label="kaspi_kz"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
